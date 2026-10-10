@@ -140,6 +140,9 @@ img {
   gap: 100px;
   margin: 0;
 }
+.hero-row > .hero-copy {
+  align-self: start;
+}
 .hero-row > div {
   padding: 0;
   width: auto;
@@ -1851,7 +1854,7 @@ body.modal-open #page-content {
   );
 }
 .art-mask > img {
-  opacity: 1;
+  opacity: 0.5;
 }
 .art-mask .h-grid {
   opacity: 0.75;
@@ -2132,5 +2135,15 @@ body.modal-open #page-content {
   .trust-section {
     min-height: 0;
     padding: 32px 0 48px;
+  }
+}
+@media (min-width: 1601px) {
+  .art-hero .art-mask,
+  .art-hero .art-base {
+    height: 100%;
+  }
+
+  .art-hero .art-mask {
+    mask-size: 100% 100%;
   }
 }
