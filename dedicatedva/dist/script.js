@@ -79,3 +79,13 @@ const page=document.getElementById('page-content');
 modal.addEventListener('shown.bs.modal',()=>{page.inert=true;modal.querySelector('input')?.focus();});
 modal.addEventListener('hidden.bs.modal',()=>{page.inert=false;document.querySelector('.support-trigger').focus();});
 })();
+
+document.querySelector('.header-touch-button').addEventListener('click', event => {
+  event.preventDefault();
+  const form = document.getElementById('hero-form-host');
+  form.scrollIntoView({
+    behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth',
+    block: 'center'
+  });
+  form.querySelector('input').focus({ preventScroll: true });
+});

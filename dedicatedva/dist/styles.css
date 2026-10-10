@@ -184,7 +184,7 @@ img {
 .hero-stats > div {
   display: flex;
   flex-direction: column;
-  gap: 9px;
+  gap: 3px;
 }
 .hero-stats strong {
   font-weight: 800;
@@ -692,19 +692,37 @@ textarea.form-control {
 }
 /* Keep navy behind the rounded cap at every viewport width. */
 .services-section {
-  background: linear-gradient(var(--navy), var(--navy)) top / 100% min(21.375vw, 342px) no-repeat;
+  background: linear-gradient(var(--navy), var(--navy)) top / 100%
+    min(21.375vw, 342px) no-repeat;
 }
 /* Fill the content-driven section instead of scaling a fixed-height canvas. */
 .art-services {
   --services-cap-height: min(21.375vw, 342px);
-  mask-image: url("assets/services-rounded-top.svg"), linear-gradient(#000, #000);
-  mask-size: 100% var(--services-cap-height), 100% calc(100% - var(--services-cap-height) + 1px);
-  mask-position: center top, center bottom;
+  mask-image:
+    url("assets/services-rounded-top.svg"), linear-gradient(#000, #000);
+  mask-size:
+    100% var(--services-cap-height),
+    100% calc(100% - var(--services-cap-height) + 1px);
+  mask-position:
+    center top,
+    center bottom;
   mask-repeat: no-repeat;
   background:
-    radial-gradient(ellipse at 8% 100%, rgba(145, 136, 255, 0.28), transparent 52%),
-    radial-gradient(ellipse at 96% 35%, rgba(127, 173, 255, 0.32), transparent 58%),
-    radial-gradient(ellipse at 40% 0%, rgba(155, 188, 255, 0.3), transparent 48%),
+    radial-gradient(
+      ellipse at 8% 100%,
+      rgba(145, 136, 255, 0.28),
+      transparent 52%
+    ),
+    radial-gradient(
+      ellipse at 96% 35%,
+      rgba(127, 173, 255, 0.32),
+      transparent 58%
+    ),
+    radial-gradient(
+      ellipse at 40% 0%,
+      rgba(155, 188, 255, 0.3),
+      transparent 48%
+    ),
     linear-gradient(115deg, #edf0ff 0%, #f5ffff 48%, #e5efff 100%);
 }
 .art-services .s-grid {
@@ -1688,7 +1706,7 @@ body.modal-open #page-content {
 }
 .hero-stats {
   margin-top: 30px;
-  gap: 30px;
+  gap: 20px;
 }
 .time-saved {
   bottom: -70px;
@@ -1833,7 +1851,7 @@ body.modal-open #page-content {
   );
 }
 .art-mask > img {
-  opacity: 0.08;
+  opacity: 1;
 }
 .art-mask .h-grid {
   opacity: 0.75;
@@ -1857,5 +1875,262 @@ body.modal-open #page-content {
 @media (max-width: 991px) {
   .hero-copy h1 .hero-intro {
     margin-bottom: 18px;
+  }
+}
+
+/* Expand large-screen sections without enlarging the form or stretching artwork vertically. */
+@media (min-width: 1601px) {
+  .hero-section .page-container,
+  .contact-content {
+    width: 85%;
+    max-width: 1800px;
+  }
+  .hero-section {
+    padding-bottom: 100px;
+  }
+  .hero-row {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 760px);
+    gap: clamp(100px, 7vw, 180px);
+    align-items: center;
+  }
+  .hero-copy {
+    max-width: 650px;
+  }
+  .art-hero .art-canvas,
+  .art-contact .art-canvas {
+    left: 0;
+    width: 100%;
+    transform: none;
+  }
+  .art-hero .art-base {
+    width: 100%;
+    height: 938.635px;
+  }
+  .art-hero .art-mask,
+  .art-contact .contact-mask {
+    width: 100%;
+    mask-size: 100% 100%;
+  }
+  .trust-section .logo-viewport {
+    width: 100%;
+    max-width: none;
+  }
+  .trust-section .logo-set {
+    min-width: 100vw;
+    justify-content: space-around;
+  }
+  .trust-section .logo-slot {
+    width: clamp(132px, 8.25vw, 240px);
+  }
+  .trust-section .logo-slot img {
+    width: clamp(110px, 6.875vw, 150px);
+    max-height: 80px;
+  }
+  .contact-section {
+    padding-block: 90px 65px;
+  }
+}
+
+@media (min-width: 1601px) {
+  .partner-section .page-container,
+  .services-section .page-container,
+  .efficiency-section .page-container,
+  .process-section .page-container,
+  .faq-section .page-container,
+  .site-footer .page-container {
+    width: 85%;
+    max-width: 1800px;
+  }
+  .partner-section {
+    padding-top: clamp(120px, 7.5vw, 160px);
+    padding-bottom: clamp(77px, 4.8vw, 110px);
+  }
+  .partner-top,
+  .partner-bottom {
+    gap: clamp(87px, 6vw, 150px);
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  }
+  .partner-top p,
+  .partner-bottom p {
+    max-width: 65ch;
+  }
+  .partner-photo {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 2 / 1;
+  }
+  .activity-stack {
+    width: clamp(522px, 32.625vw, 620px);
+    margin-right: 0;
+  }
+  .services-section {
+    padding-bottom: clamp(121px, 7.5vw, 160px);
+  }
+  .art-services .s-grid {
+    width: min(85%, 1600px);
+  }
+  .service-grid {
+    --bs-gutter-x: clamp(20px, 1.5vw, 32px);
+    --bs-gutter-y: clamp(20px, 1.5vw, 32px);
+  }
+  .service-inner {
+    padding: clamp(30px, 2.5vw, 44px);
+  }
+  .service-inner p {
+    max-width: 52ch;
+    margin-inline: auto;
+  }
+  .efficiency-section {
+    padding-block: clamp(120px, 7.5vw, 160px);
+  }
+  .efficiency-logos {
+    gap: clamp(100px, 7vw, 170px);
+    flex-wrap: wrap;
+  }
+  .process-section {
+    padding-top: clamp(120px, 7.5vw, 160px);
+    padding-bottom: clamp(240px, 15vw, 320px);
+  }
+  .process-art img {
+    object-fit: cover;
+  }
+  .process-viewport {
+    width: calc(min(85vw, 1800px) + min(7.5vw, 120px));
+    max-width: none;
+    margin-left: max(7.5vw, calc((100vw - 1800px) / 2));
+    margin-right: 0;
+  }
+  .process-inner {
+    padding-inline: clamp(25px, 2vw, 40px);
+  }
+  .faq-section {
+    min-height: 0;
+    padding-block: clamp(60px, 4vw, 90px) clamp(90px, 6vw, 140px);
+  }
+  .faq-list {
+    max-width: 1600px;
+  }
+  .faq-button {
+    padding: 24px 36px;
+  }
+  .site-footer {
+    min-height: 0;
+  }
+  .footer-content {
+    padding-top: clamp(186px, 11.625vw, 240px);
+    padding-bottom: 20px;
+  }
+}
+
+/* One continuous background carries the contact gradient behind the footer curve. */
+.contact-footer-background {
+  position: relative;
+  isolation: isolate;
+  background:
+    radial-gradient(ellipse at 0 0, rgba(168, 182, 255, 0.34), transparent 48%),
+    radial-gradient(
+      ellipse at 32% 55%,
+      rgba(203, 250, 255, 0.42),
+      transparent 62%
+    ),
+    linear-gradient(110deg, #e9f2ff 0%, #f6ffff 42%, #ffffff 76%, #f8f9ff 100%);
+}
+.contact-footer-background::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background: url("assets/imgMaskGroup1.svg") center top / min(90vw, 1400px)
+    auto no-repeat;
+  opacity: 0.45;
+}
+.contact-footer-background .contact-section,
+.contact-footer-background .site-footer {
+  background-color: transparent;
+}
+
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.header-touch-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 200px;
+  min-height: 45px;
+  padding: 12px 24px;
+  border: 1px solid #797d98;
+  border-radius: 9px;
+  background: var(--navy);
+  color: white;
+  box-shadow:
+    inset 0 0 7px #ffffff80,
+    0 0 4px #00092630;
+  font-size: 16px;
+}
+.header-touch-button:hover,
+.header-touch-button:focus-visible {
+  color: white;
+  background: #152044;
+  border-color: #9ca8dc;
+}
+.header-touch-button:focus-visible {
+  outline: 3px solid var(--blue);
+  outline-offset: 4px;
+}
+#hero-form-host {
+  scroll-margin-top: 28px;
+}
+@media (max-width: 575px) {
+  .site-header {
+    gap: 12px;
+  }
+  .site-header .brand-logo {
+    width: clamp(130px, 40vw, 185px);
+    height: auto;
+  }
+  .header-touch-button {
+    width: auto;
+    min-height: 44px;
+    padding: 10px 16px;
+    font-size: 13px;
+  }
+}
+
+/* Reserve space for the card below the form on phones and tablets. */
+@media (max-width: 1199px) {
+  .hero-form-column .time-saved {
+    position: relative;
+    inset: auto;
+    transform: none;
+    width: 180px;
+    min-height: 0;
+    margin: 20px 0 0;
+    padding: 22px;
+    gap: 12px;
+  }
+  .hero-form-column .time-saved strong {
+    font-size: 34px;
+  }
+}
+@media (min-width: 1200px) {
+  .hero-form-column .time-saved {
+    left: -172px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .hero-section {
+    min-height: 0;
+    padding-bottom: 24px;
+  }
+  .trust-section {
+    min-height: 0;
+    padding: 32px 0 48px;
   }
 }
