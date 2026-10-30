@@ -1,0 +1,155 @@
+const imgEllipse1 = "https://www.figma.com/api/mcp/asset/5b41becf-17af-4fd7-a709-34f9633c5358.svg";
+
+export default function Group3() {
+  return (
+    <div className="contents relative size-full" data-node-id="22:493">
+      <div className="absolute bg-white border border-[rgba(0,0,0,0.1)] border-solid content-stretch flex flex-col gap-[35px] items-center justify-center left-0 px-[48px] py-[35px] rounded-[10px] top-0 w-[688.167px]" data-node-id="22:494" data-name="Container">
+        <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="22:495">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['Lato:SemiBold'] leading-[45px] not-italic relative shrink-0 text-[#111] text-[37px] text-center tracking-[-1.48px] w-full" data-node-id="22:496">{`Claim Your Free Trial & See Your Savings`}</p>
+        </div>
+        <div className="content-stretch flex flex-col gap-[28px] items-start relative shrink-0 w-full" data-node-id="22:497" data-name="Form">
+          <div className="gap-x-[16px] gap-y-[16px] grid grid-cols-[repeat(2,minmax(0,1fr))] grid-rows-[_64px] h-[70px] relative shrink-0 w-full" data-node-id="22:498" data-name="Container">
+            <div className="col-1 content-stretch flex flex-col gap-[6px] items-start justify-self-stretch relative row-1 self-start shrink-0" data-node-id="22:499" data-name="Container">
+              <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="22:500" data-name="Label">
+                <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex flex-col font-['Lato:SemiBold'] justify-center leading-[0] not-italic relative shrink-0 text-[12px] text-[rgba(17,17,17,0.6)] w-full" data-node-id="22:501">
+                  <p className="leading-[16px]">Full Name *</p>
+                </div>
+              </div>
+              <div className="bg-[#fdfafa] border border-[#e2e8f0] border-solid content-stretch flex h-[55px] items-center overflow-clip pb-[13px] pt-[12px] px-[17px] relative rounded-[8px] shrink-0 w-full" data-node-id="22:502" data-name="Input">
+                <div className="flex-[1_0_0] min-w-px relative" data-node-id="22:503" data-name="Container">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start overflow-clip relative rounded-[inherit] size-full">
+                    <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex flex-col font-['Lato:Medium'] justify-center leading-[0] not-italic relative shrink-0 text-[#7c848f] text-[14px] w-full" data-node-id="22:504">
+                      <p className="leading-[normal]">e.g. Dr. Thomas Müller</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-2 content-stretch flex flex-col gap-[6px] items-start justify-self-stretch relative row-1 self-start shrink-0" data-node-id="22:505" data-name="Container">
+              <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="22:506" data-name="Label">
+                <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex flex-col font-['Lato:SemiBold'] justify-center leading-[0] not-italic relative shrink-0 text-[12px] text-[rgba(17,17,17,0.6)] w-full" data-node-id="22:507">
+                  <p className="leading-[16px]">Company Name</p>
+                </div>
+              </div>
+              <div className="bg-[#fdfafa] border border-[#e2e8f0] border-solid content-stretch flex h-[55px] items-center overflow-clip pb-[13px] pt-[12px] px-[17px] relative rounded-[8px] shrink-0 w-full" data-node-id="22:508" data-name="Input">
+                <div className="flex-[1_0_0] min-w-px relative" data-node-id="22:509" data-name="Container">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start overflow-clip relative rounded-[inherit] size-full">
+                    <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex flex-col font-['Lato:Medium'] justify-center leading-[0] not-italic relative shrink-0 text-[#7c848f] text-[14px] w-full" data-node-id="22:510">
+                      <p className="leading-[normal]">{`e.g. Müller & Söhne GmbH`}</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="gap-x-[16px] gap-y-[16px] grid grid-cols-[repeat(2,minmax(0,1fr))] grid-rows-[_64px] h-[70px] relative shrink-0 w-full" data-node-id="22:511" data-name="Container">
+            <div className="col-1 content-stretch flex flex-col gap-[6px] items-start justify-self-stretch relative row-1 self-start shrink-0" data-node-id="22:512" data-name="Container">
+              <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="22:513" data-name="Label">
+                <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex flex-col font-['Lato:SemiBold'] justify-center leading-[0] not-italic relative shrink-0 text-[12px] text-[rgba(17,17,17,0.6)] w-full" data-node-id="22:514">
+                  <p className="leading-[16px]">Corporate Email *</p>
+                </div>
+              </div>
+              <div className="bg-[#fdfafa] border border-[#e2e8f0] border-solid content-stretch flex h-[55px] items-center overflow-clip pb-[13px] pt-[12px] px-[17px] relative rounded-[8px] shrink-0 w-full" data-node-id="22:515" data-name="Input">
+                <div className="flex-[1_0_0] min-w-px relative" data-node-id="22:516" data-name="Container">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start overflow-clip relative rounded-[inherit] size-full">
+                    <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex flex-col font-['Lato:Medium'] justify-center leading-[0] not-italic relative shrink-0 text-[#7c848f] text-[14px] w-full" data-node-id="22:517">
+                      <p className="leading-[normal]">e.g. t.mueller@company.de</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-2 content-stretch flex flex-col gap-[6px] items-start justify-self-stretch relative row-1 self-start shrink-0" data-node-id="22:518" data-name="Container">
+              <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="22:519" data-name="Label">
+                <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex flex-col font-['Lato:SemiBold'] justify-center leading-[0] not-italic relative shrink-0 text-[12px] text-[rgba(17,17,17,0.6)] w-full" data-node-id="22:520">
+                  <p className="leading-[16px]">Phone Number *</p>
+                </div>
+              </div>
+              <div className="bg-[#fdfafa] border border-[#e2e8f0] border-solid content-stretch flex h-[55px] items-center overflow-clip pb-[13px] pt-[12px] px-[17px] relative rounded-[8px] shrink-0 w-full" data-node-id="22:521" data-name="Input">
+                <div className="flex-[1_0_0] min-w-px relative" data-node-id="22:522" data-name="Container">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start overflow-clip relative rounded-[inherit] size-full">
+                    <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex flex-col font-['Lato:Medium'] justify-center leading-[0] not-italic relative shrink-0 text-[#7c848f] text-[14px] w-full" data-node-id="22:523">
+                      <p className="leading-[normal]">e.g. +49 9122 982110</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[6px] items-start relative shrink-0 w-[592.167px]" data-node-id="22:524">
+            <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex flex-col font-['Lato:SemiBold'] justify-center leading-[0] min-w-full not-italic relative shrink-0 text-[12px] text-[rgba(17,17,17,0.6)] w-[min-content]" data-node-id="22:525">
+              <p className="leading-[16px]">Which plan fits your budget?</p>
+            </div>
+            <div className="content-stretch flex gap-[16px] items-center relative shrink-0" data-node-id="22:526">
+              <div className="bg-[#fdfafa] border border-[#e2e8f0] border-solid content-stretch flex gap-[10px] items-center p-[15px] relative rounded-[10px] shrink-0" data-node-id="22:527">
+                <div className="relative shrink-0 size-[15px]" data-node-id="22:528">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse1} />
+                </div>
+                <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex flex-col font-['Lato:Medium'] justify-center leading-[0] not-italic relative shrink-0 text-[#7c848f] text-[14px] whitespace-nowrap" data-node-id="22:529">
+                  <p className="leading-[20px]">Full-Time $999/mo</p>
+                </div>
+              </div>
+              <div className="bg-[#fdfafa] border border-[#e2e8f0] border-solid content-stretch flex gap-[10px] items-center p-[15px] relative rounded-[10px] shrink-0" data-node-id="22:530">
+                <div className="relative shrink-0 size-[15px]" data-node-id="22:531">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse1} />
+                </div>
+                <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex flex-col font-['Lato:Medium'] justify-center leading-[0] not-italic relative shrink-0 text-[#7c848f] text-[14px] whitespace-nowrap" data-node-id="22:532">
+                  <p className="leading-[20px]">Hourly $13/hr</p>
+                </div>
+              </div>
+              <div className="bg-[#fdfafa] border border-[#e2e8f0] border-solid content-stretch flex gap-[10px] items-center p-[15px] relative rounded-[10px] shrink-0" data-node-id="22:533">
+                <div className="relative shrink-0 size-[15px]" data-node-id="22:534">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse1} />
+                </div>
+                <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex flex-col font-['Lato:Medium'] justify-center leading-[0] not-italic relative shrink-0 text-[#7c848f] text-[14px] whitespace-nowrap" data-node-id="22:535">
+                  <p className="leading-[20px]">Not Sure Yet</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[6px] items-start relative shrink-0 w-full" data-node-id="22:536" data-name="Container">
+            <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="22:537" data-name="Label">
+              <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex flex-col font-['Lato:SemiBold'] justify-center leading-[0] not-italic relative shrink-0 text-[12px] text-[rgba(17,17,17,0.6)] w-full" data-node-id="22:538">
+                <p className="leading-[16px]">{`How can we assist you? `}</p>
+              </div>
+            </div>
+            <div className="bg-[#fdfafa] border border-[#e2e8f0] border-solid content-stretch flex items-start justify-center overflow-auto pb-[61px] pt-[21px] px-[17px] relative rounded-[8px] shrink-0 w-full" data-node-id="22:539" data-name="Textarea">
+              <div className="flex-[1_0_0] min-w-px relative" data-node-id="22:540" data-name="Container">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
+                  <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex flex-col font-['Lato:Medium'] justify-center leading-[0] not-italic relative shrink-0 text-[#7c848f] text-[14px] w-full" data-node-id="22:541">
+                    <p className="leading-[20px]">Describe</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[10px] items-start relative shrink-0 w-full" data-node-id="22:542" data-name="Container">
+            <div className="content-stretch flex flex-col items-start pt-[4px] relative shrink-0" data-node-id="22:543" data-name="Input:margin">
+              <div className="bg-white border border-[#767676] border-solid relative rounded-[2.5px] shrink-0 size-[13px]" data-node-id="22:544" data-name="Input" />
+            </div>
+            <div className="content-stretch flex flex-col items-start pr-[19.44px] relative shrink-0" data-node-id="22:545" data-name="Label">
+              <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex flex-col font-['Lato:Medium'] justify-center leading-[0] not-italic relative shrink-0 text-[12px] text-[rgba(17,17,17,0.6)] whitespace-nowrap" data-node-id="22:546">
+                <p className="leading-[18px] mb-0">I acknowledge that my contact data is handled strictly in accordance with GDPR principles by the</p>
+                <p className="leading-[18px]">operators of BES Systemhaus GmbH for processing this consultation request. *</p>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex h-[60px] items-center justify-center px-[25px] py-[20px] relative rounded-[100px] shrink-0 w-full" data-node-id="22:547" style={{ backgroundImage: "linear-gradient(126.21181584347586deg, rgb(22, 124, 255) 5.4872%, rgb(129, 68, 240) 100%)" }}>
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['Inter:Medium'] font-medium leading-[normal] not-italic relative shrink-0 text-[18px] text-white whitespace-nowrap" data-node-id="22:548">
+              Start Your Risk-Free Trial
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

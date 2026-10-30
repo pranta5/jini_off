@@ -1,0 +1,365 @@
+const imgImagePhotoroom811 = "https://www.figma.com/api/mcp/asset/200f6d81-1216-4760-91fe-33edba468fa9.png";
+const imgEllipse1757 = "https://www.figma.com/api/mcp/asset/1c780735-9f70-46a7-961e-2bf05e02b1fc.png";
+const imgRectangle10244 = "https://www.figma.com/api/mcp/asset/49017a1e-bbca-4c15-9db4-96323d4cd1a9.png";
+const imgRectangle10245 = "https://www.figma.com/api/mcp/asset/e5809b16-e351-4287-97e7-d92c3c7f2e6d.png";
+const imgRectangle10246 = "https://www.figma.com/api/mcp/asset/d59b850a-ce07-439e-b023-340d39ffdeb4.png";
+const imgRectangle10247 = "https://www.figma.com/api/mcp/asset/def13233-8edd-4552-a275-f88ad954a6f4.png";
+const imgRectangle10248 = "https://www.figma.com/api/mcp/asset/e136211a-a50c-4fb3-b756-abc9437db7c2.png";
+const imgImagePhotoroom812 = "https://www.figma.com/api/mcp/asset/2ac7d0be-dcb1-4ef3-ad06-02b5b584c9ab.png";
+const imgEllipse1758 = "https://www.figma.com/api/mcp/asset/e45fff8b-3b31-4915-b6af-d9dab7f25d4d.png";
+const imgRectangle10249 = "https://www.figma.com/api/mcp/asset/3bfbdce7-d445-4894-a517-ae5fbc6608dd.png";
+const imgRectangle10250 = "https://www.figma.com/api/mcp/asset/f0626cb9-c7e6-4edc-a971-9f9c69740917.png";
+const imgRectangle10251 = "https://www.figma.com/api/mcp/asset/30de170f-3a71-4add-b0fb-fb108ae1c993.png";
+const imgRectangle10252 = "https://www.figma.com/api/mcp/asset/41174032-f166-4715-9ec6-59fd2a173328.png";
+const imgRectangle10253 = "https://www.figma.com/api/mcp/asset/0ad35d32-6053-49bc-bb1c-cbc107bac0f3.png";
+const imgImagePhotoroom813 = "https://www.figma.com/api/mcp/asset/d1089d51-9ad6-4496-9101-422fc5846b12.png";
+const imgRectangle10254 = "https://www.figma.com/api/mcp/asset/9659ef9e-25c4-4867-8005-ec569ab5fac8.png";
+const imgRectangle10255 = "https://www.figma.com/api/mcp/asset/3b4cf78c-eeb6-41c7-9712-045c1dd49eac.png";
+const imgRectangle10256 = "https://www.figma.com/api/mcp/asset/a411a6ff-2b31-4466-aa63-5c427357df9c.png";
+const imgRectangle10257 = "https://www.figma.com/api/mcp/asset/cbc09518-5cd3-4d47-b32e-5baedd0ca487.png";
+const imgRectangle10258 = "https://www.figma.com/api/mcp/asset/e467c406-e100-44ed-b729-a6c268691ce3.png";
+const imgImagePhotoroom814 = "https://www.figma.com/api/mcp/asset/1150b3b8-7424-4dfa-b6db-5f30c2b5cb7d.png";
+const imgRectangle10259 = "https://www.figma.com/api/mcp/asset/fbdcb5f7-9506-4c28-bc04-0f17d07b6212.png";
+const imgRectangle10260 = "https://www.figma.com/api/mcp/asset/73207ebc-c931-4048-98ba-cdd489c397fe.png";
+const imgRectangle10261 = "https://www.figma.com/api/mcp/asset/b13db5fb-02a2-447b-9f09-c6ccdf72d907.png";
+const imgRectangle10262 = "https://www.figma.com/api/mcp/asset/43d1d51e-5ef6-44fc-af51-3f0182727fc8.png";
+const imgRectangle10263 = "https://www.figma.com/api/mcp/asset/e4b7764c-335e-4326-a14f-08d985735b5f.png";
+const imgImagePhotoroom815 = "https://www.figma.com/api/mcp/asset/0d746d51-036b-48e8-9b47-31924397e251.png";
+const imgRectangle10264 = "https://www.figma.com/api/mcp/asset/34228e5c-6e55-40f8-9041-dd54fdde5394.png";
+const imgRectangle10265 = "https://www.figma.com/api/mcp/asset/bb080314-7856-4ce0-b2a9-85523f4f47a3.png";
+const imgRectangle10266 = "https://www.figma.com/api/mcp/asset/fde2f6e6-a96c-4bb8-b8e8-1de9a8b3ec46.png";
+const imgRectangle10267 = "https://www.figma.com/api/mcp/asset/b928d87e-0f96-41ed-b2bf-5c80ad944681.png";
+const imgRectangle10268 = "https://www.figma.com/api/mcp/asset/b0d80348-3f9a-44b2-8f2c-496086a24141.png";
+const imgImagePhotoroom816 = "https://www.figma.com/api/mcp/asset/23d28832-7fdb-4fbe-8464-a07a51df5706.png";
+const imgRectangle10269 = "https://www.figma.com/api/mcp/asset/b1827074-666a-4f2d-93e2-7b35a6d1685e.png";
+const imgRectangle10270 = "https://www.figma.com/api/mcp/asset/a5906e53-6b06-4df0-8dfc-6871ab4f6771.png";
+const imgRectangle10271 = "https://www.figma.com/api/mcp/asset/f7beced7-96b0-413b-a0dd-fc557516b205.png";
+const imgRectangle35 = "https://www.figma.com/api/mcp/asset/60225d24-5941-4e04-883b-b07e4f3a0ae9.png";
+const imgMaskGroup = "https://www.figma.com/api/mcp/asset/a1309c0a-69a3-4fd3-b4f7-989fb98c76cb.svg";
+
+export default function Frame2147223841() {
+  return (
+    <div className="content-stretch flex flex-col gap-[50px] items-center py-[100px] relative size-full" data-node-id="22:329">
+      <div className="[word-break:break-word] content-stretch flex flex-col gap-[35px] items-start not-italic relative shrink-0 text-center" data-node-id="22:330">
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] capitalize font-['Lato:SemiBold'] leading-[0] relative shrink-0 text-[#111] text-[0px] tracking-[-1.8px] whitespace-nowrap" data-node-id="22:331">
+          <span className="leading-[65px] text-[60px]">{`Meet the People `}</span>
+          <span className="bg-clip-text leading-[90px] text-[60px] text-[transparent] tracking-[-0.6px]" style={{ backgroundImage: "linear-gradient(90deg, rgb(59, 154, 248) 0%, rgb(132, 65, 240) 100%), linear-gradient(90deg, rgb(9, 20, 45) 0%, rgb(9, 20, 45) 100%)" }}>{`Who'll Have Your Back`}</span>
+        </p>
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Medium'] leading-[30px] min-w-full relative shrink-0 text-[#606060] text-[22px] w-[min-content]" data-node-id="22:332">
+          Real, dedicated professionals — handpicked from 2M+ yearly applicants, expertly trained, and fully supervised by Wing. The kind of teammate you’ll wonder how you worked without.
+        </p>
+      </div>
+      <div className="grid-cols-[max-content] grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0" data-node-id="22:333">
+        <div className="col-1 grid-cols-[max-content] grid-rows-[max-content] inline-grid ml-0 mt-0 place-items-start relative row-1" data-node-id="22:334">
+          <div className="col-1 grid-cols-[max-content] grid-rows-[max-content] inline-grid ml-0 mt-0 place-items-start relative row-1" data-node-id="22:335">
+            <div className="col-1 h-[422px] ml-0 mt-[0.32px] relative row-1 w-[328px]" data-node-id="22:336" data-name="Mask group">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMaskGroup} />
+            </div>
+            <div className="col-1 h-[365.317px] ml-0 mt-0 relative row-1 w-[328px]" data-node-id="22:340" data-name="image-Photoroom (81) 1">
+              <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImagePhotoroom811} />
+            </div>
+          </div>
+          <div className="bg-[#f9f9f9] border-[rgba(0,0,0,0.2)] border-b border-l border-r border-solid col-1 content-stretch flex flex-col items-start ml-0 mt-[299.32px] px-[15px] py-[20px] relative rounded-bl-[10px] rounded-br-[10px] row-1 w-[328px]" data-node-id="22:341">
+            <div className="content-stretch flex flex-col gap-[22px] items-start relative shrink-0 w-[288px]" data-node-id="22:342">
+              <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="22:343">
+                <div className="[word-break:break-word] content-stretch flex flex-col gap-[12px] items-start not-italic relative shrink-0 w-[227px]" data-node-id="22:344">
+                  <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Medium'] leading-[90px] min-w-full relative shrink-0 text-[25px] text-black tracking-[-0.75px] w-[min-content]" data-node-id="22:345">
+                    Sayan Roy
+                  </p>
+                  <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Regular'] leading-[16px] relative shrink-0 text-[18px] text-[rgba(0,0,0,0.8)] tracking-[-0.18px] whitespace-nowrap" data-node-id="22:346">
+                    Administrative Virtual Assistant
+                  </p>
+                </div>
+                <div className="flex flex-row items-center self-stretch" data-node-id="22:347">
+                  <div className="aspect-[100/100] h-full relative shrink-0">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" height="43" src={imgEllipse1757} width="43" />
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex gap-[10px] items-start relative shrink-0" data-node-id="22:348">
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:349">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10244} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:350">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10245} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:351">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10246} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:352">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10247} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:353">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10248} />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="col-1 grid-cols-[max-content] grid-rows-[max-content] inline-grid ml-[686px] mt-0 place-items-start relative row-1" data-node-id="22:354">
+          <div className="col-1 grid-cols-[max-content] grid-rows-[max-content] inline-grid ml-0 mt-0 place-items-start relative row-1" data-node-id="22:355">
+            <div className="col-1 h-[422px] ml-0 mt-[0.32px] relative row-1 w-[328px]" data-node-id="22:356" data-name="Mask group">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMaskGroup} />
+            </div>
+            <div className="col-1 h-[365.317px] ml-0 mt-0 relative row-1 w-[328px]" data-node-id="22:360" data-name="image-Photoroom (81) 1">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute h-[138.53%] left-[-53.2%] max-w-none top-0 w-[206.69%]" src={imgImagePhotoroom812} />
+              </div>
+            </div>
+          </div>
+          <div className="bg-[#f9f9f9] border-[rgba(0,0,0,0.2)] border-b border-l border-r border-solid col-1 content-stretch flex flex-col items-start ml-0 mt-[299.32px] px-[15px] py-[20px] relative rounded-bl-[10px] rounded-br-[10px] row-1 w-[328px]" data-node-id="22:361">
+            <div className="content-stretch flex flex-col gap-[22px] items-start relative shrink-0 w-[288px]" data-node-id="22:362">
+              <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="22:363">
+                <div className="[word-break:break-word] content-stretch flex flex-col gap-[12px] items-start not-italic relative shrink-0 w-[227px]" data-node-id="22:364">
+                  <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Medium'] leading-[90px] min-w-full relative shrink-0 text-[25px] text-black tracking-[-0.75px] w-[min-content]" data-node-id="22:365">
+                    Aditya Das
+                  </p>
+                  <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Regular'] leading-[16px] relative shrink-0 text-[18px] text-[rgba(0,0,0,0.8)] tracking-[-0.18px] whitespace-nowrap" data-node-id="22:366">
+                    Social Media Virtual Assistant
+                  </p>
+                </div>
+                <div className="flex flex-row items-center self-stretch" data-node-id="22:367">
+                  <div className="aspect-[100/100] h-full relative shrink-0">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" height="43" src={imgEllipse1758} width="42" />
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex gap-[10px] items-start relative shrink-0" data-node-id="22:368">
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:369">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10249} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:370">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10250} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:371">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10251} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:372">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10252} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:373">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10253} />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="col-1 grid-cols-[max-content] grid-rows-[max-content] inline-grid ml-[1029px] mt-0 place-items-start relative row-1" data-node-id="22:374">
+          <div className="col-1 grid-cols-[max-content] grid-rows-[max-content] inline-grid ml-0 mt-0 place-items-start relative row-1" data-node-id="22:375">
+            <div className="col-1 h-[422px] ml-0 mt-[0.32px] relative row-1 w-[328px]" data-node-id="22:376" data-name="Mask group">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMaskGroup} />
+            </div>
+            <div className="col-1 h-[365.317px] ml-0 mt-0 relative row-1 w-[328px]" data-node-id="22:380" data-name="image-Photoroom (81) 1">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute h-full left-[-25.32%] max-w-none top-0 w-[162.83%]" src={imgImagePhotoroom813} />
+              </div>
+            </div>
+          </div>
+          <div className="bg-[#f9f9f9] border-[rgba(0,0,0,0.2)] border-b border-l border-r border-solid col-1 content-stretch flex flex-col items-start ml-0 mt-[299.32px] px-[15px] py-[20px] relative rounded-bl-[10px] rounded-br-[10px] row-1 w-[328px]" data-node-id="22:381">
+            <div className="content-stretch flex flex-col gap-[22px] items-start relative shrink-0 w-[288px]" data-node-id="22:382">
+              <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="22:383">
+                <div className="[word-break:break-word] content-stretch flex flex-col gap-[12px] items-start not-italic relative shrink-0 w-[227px]" data-node-id="22:384">
+                  <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Medium'] leading-[90px] min-w-full relative shrink-0 text-[25px] text-black tracking-[-0.75px] w-[min-content]" data-node-id="22:385">
+                    Riya Das
+                  </p>
+                  <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Regular'] leading-[16px] relative shrink-0 text-[18px] text-[rgba(0,0,0,0.8)] tracking-[-0.18px] whitespace-nowrap" data-node-id="22:386">{`Sales & Lead Generation VA`}</p>
+                </div>
+                <div className="flex flex-row items-center self-stretch" data-node-id="22:387">
+                  <div className="aspect-[100/100] h-full relative shrink-0">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" height="43" src={imgEllipse1758} width="42" />
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex gap-[10px] items-start relative shrink-0" data-node-id="22:388">
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:389">
+                  <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none rounded-[5px] size-full" src={imgRectangle10254} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:390">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10255} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:391">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10256} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:392">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10257} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:393">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10258} />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="col-1 grid-cols-[max-content] grid-rows-[max-content] inline-grid ml-[1372px] mt-0 place-items-start relative row-1" data-node-id="22:394">
+          <div className="col-1 grid-cols-[max-content] grid-rows-[max-content] inline-grid ml-0 mt-0 place-items-start relative row-1" data-node-id="22:395">
+            <div className="col-1 h-[422px] ml-0 mt-[0.32px] relative row-1 w-[328px]" data-node-id="22:396" data-name="Mask group">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMaskGroup} />
+            </div>
+            <div className="col-1 h-[365.317px] ml-0 mt-0 relative row-1 w-[328px]" data-node-id="22:400" data-name="image-Photoroom (81) 1">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute h-full left-[-24.41%] max-w-none top-0 w-[167.11%]" src={imgImagePhotoroom814} />
+              </div>
+            </div>
+          </div>
+          <div className="bg-[#f9f9f9] border-[rgba(0,0,0,0.2)] border-b border-l border-r border-solid col-1 content-stretch flex flex-col items-start ml-0 mt-[299.32px] px-[15px] py-[20px] relative rounded-bl-[10px] rounded-br-[10px] row-1 w-[328px]" data-node-id="22:401">
+            <div className="content-stretch flex flex-col gap-[22px] items-start relative shrink-0 w-[288px]" data-node-id="22:402">
+              <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="22:403">
+                <div className="[word-break:break-word] content-stretch flex flex-col gap-[12px] items-start not-italic relative shrink-0 w-[227px]" data-node-id="22:404">
+                  <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Medium'] leading-[90px] min-w-full relative shrink-0 text-[25px] text-black tracking-[-0.75px] w-[min-content]" data-node-id="22:405">
+                    Karan Patel
+                  </p>
+                  <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Regular'] leading-[16px] relative shrink-0 text-[18px] text-[rgba(0,0,0,0.8)] tracking-[-0.18px] whitespace-nowrap" data-node-id="22:406">
+                    E-commerce Virtual Assistant
+                  </p>
+                </div>
+                <div className="flex flex-row items-center self-stretch" data-node-id="22:407">
+                  <div className="aspect-[100/100] h-full relative shrink-0">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" height="43" src={imgEllipse1758} width="42" />
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex gap-[10px] items-start relative shrink-0" data-node-id="22:408">
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:409">
+                  <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none rounded-[5px] size-full" src={imgRectangle10259} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:410">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10260} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:411">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10261} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:412">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10262} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:413">
+                  <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none rounded-[5px] size-full" src={imgRectangle10263} />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="col-1 grid-cols-[max-content] grid-rows-[max-content] inline-grid ml-[1715px] mt-0 place-items-start relative row-1" data-node-id="22:414">
+          <div className="col-1 grid-cols-[max-content] grid-rows-[max-content] inline-grid ml-0 mt-0 place-items-start relative row-1" data-node-id="22:415">
+            <div className="col-1 h-[422px] ml-0 mt-[0.32px] relative row-1 w-[328px]" data-node-id="22:416" data-name="Mask group">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMaskGroup} />
+            </div>
+            <div className="col-1 h-[365.317px] ml-0 mt-0 relative row-1 w-[328px]" data-node-id="22:420" data-name="image-Photoroom (81) 1">
+              <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImagePhotoroom815} />
+            </div>
+          </div>
+          <div className="bg-[#f9f9f9] border-[rgba(0,0,0,0.2)] border-b border-l border-r border-solid col-1 content-stretch flex flex-col items-start ml-0 mt-[299.32px] px-[15px] py-[20px] relative rounded-bl-[10px] rounded-br-[10px] row-1 w-[328px]" data-node-id="22:421">
+            <div className="content-stretch flex flex-col gap-[22px] items-start relative shrink-0 w-[288px]" data-node-id="22:422">
+              <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="22:423">
+                <div className="[word-break:break-word] content-stretch flex flex-col gap-[12px] items-start not-italic relative shrink-0 w-[227px]" data-node-id="22:424">
+                  <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Medium'] leading-[90px] min-w-full relative shrink-0 text-[25px] text-black tracking-[-0.75px] w-[min-content]" data-node-id="22:425">
+                    Ishita Roy
+                  </p>
+                  <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Regular'] leading-[16px] relative shrink-0 text-[18px] text-[rgba(0,0,0,0.8)] tracking-[-0.18px] whitespace-nowrap" data-node-id="22:426">{`Content & SEO VA`}</p>
+                </div>
+                <div className="flex flex-row items-center self-stretch" data-node-id="22:427">
+                  <div className="aspect-[100/100] h-full relative shrink-0">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" height="43" src={imgEllipse1757} width="43" />
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex gap-[10px] items-start relative shrink-0" data-node-id="22:428">
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:429">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10264} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:430">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10265} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:431">
+                  <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none rounded-[5px] size-full" src={imgRectangle10266} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:432">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10267} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:433">
+                  <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[5px]">
+                    <img alt="" className="absolute left-[-20%] max-w-none size-[140%] top-[-20%]" src={imgRectangle10268} />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="col-1 grid-cols-[max-content] grid-rows-[max-content] inline-grid ml-[343px] mt-0 place-items-start relative row-1" data-node-id="22:434">
+          <div className="col-1 grid-cols-[max-content] grid-rows-[max-content] inline-grid ml-0 mt-0 place-items-start relative row-1" data-node-id="22:435">
+            <div className="col-1 h-[422px] ml-0 mt-[0.32px] relative row-1 w-[328px]" data-node-id="22:436" data-name="Mask group">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMaskGroup} />
+            </div>
+            <div className="col-1 h-[365.317px] ml-0 mt-0 relative row-1 w-[328px]" data-node-id="22:440" data-name="image-Photoroom (81) 1">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute h-full left-[-27.45%] max-w-none top-0 w-[162.83%]" src={imgImagePhotoroom816} />
+              </div>
+            </div>
+          </div>
+          <div className="bg-[#f9f9f9] border-[rgba(0,0,0,0.2)] border-b border-l border-r border-solid col-1 content-stretch flex flex-col items-start ml-0 mt-[299.32px] px-[15px] py-[20px] relative rounded-bl-[10px] rounded-br-[10px] row-1 w-[328px]" data-node-id="22:441">
+            <div className="content-stretch flex flex-col gap-[22px] items-start relative shrink-0 w-[288px]" data-node-id="22:442">
+              <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="22:443">
+                <div className="[word-break:break-word] content-stretch flex flex-col gap-[12px] items-start not-italic relative shrink-0 w-[227px]" data-node-id="22:444">
+                  <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Medium'] leading-[90px] min-w-full relative shrink-0 text-[25px] text-black tracking-[-0.75px] w-[min-content]" data-node-id="22:445">
+                    Ananya Sharma
+                  </p>
+                  <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Regular'] leading-[16px] relative shrink-0 text-[18px] text-[rgba(0,0,0,0.8)] tracking-[-0.18px] whitespace-nowrap" data-node-id="22:446">
+                    Customer Support VA
+                  </p>
+                </div>
+                <div className="flex flex-row items-center self-stretch" data-node-id="22:447">
+                  <div className="aspect-[100/100] h-full relative shrink-0">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" height="43" src={imgEllipse1758} width="42" />
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex gap-[10px] items-start relative shrink-0" data-node-id="22:448">
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:449">
+                  <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[5px]">
+                    <img alt="" className="absolute h-[75.94%] left-[-17.5%] max-w-none top-[12.03%] w-[135%]" src={imgRectangle10269} />
+                  </div>
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:450">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10270} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:451">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10271} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:452">
+                  <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none rounded-[5px] size-full" src={imgRectangle10263} />
+                </div>
+                <div className="relative rounded-[5px] shrink-0 size-[30px]" data-node-id="22:453">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle10255} />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="content-stretch flex gap-[10px] items-center relative shrink-0" data-node-id="22:454">
+        <div className="flex items-center justify-center relative shrink-0" data-node-id="22:455">
+          <div className="-scale-y-100 flex-none rotate-180">
+            <div className="border border-[#111] border-solid content-stretch flex items-center justify-center px-[16px] py-[17px] relative rounded-[13.5px] size-[50px]">
+              <div className="grid-cols-[max-content] grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0" data-node-id="22:456" data-name="Mask group">
+                <div className="bg-[#111] col-1 h-[31px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[0px_3px] mask-size-[25px_25px] ml-0 mt-[-3px] relative row-1 w-[25px]" data-node-id="22:458" style={{ maskImage: `url("${imgRectangle35}")` }} />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="bg-[#111] content-stretch flex items-center justify-center px-[16px] py-[17px] relative rounded-[13.5px] shrink-0 size-[50px]" data-node-id="22:459">
+          <div className="grid-cols-[max-content] grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0" data-node-id="22:460" data-name="Mask group">
+            <div className="bg-white col-1 h-[31px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[0px_3px] mask-size-[25px_25px] ml-0 mt-[-3px] relative row-1 w-[25px]" data-node-id="22:462" style={{ maskImage: `url("${imgRectangle35}")` }} />
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

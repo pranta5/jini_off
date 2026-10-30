@@ -1,0 +1,88 @@
+const imgRectangle18 = "https://www.figma.com/api/mcp/asset/ae8e2f23-e406-446c-9180-9f89accc6749.png";
+const imgImage24 = "https://www.figma.com/api/mcp/asset/76a3aabe-19f0-43af-a263-744d78a703f1.png";
+const imgImage23 = "https://www.figma.com/api/mcp/asset/0fc7e010-2844-4a69-99e4-da6f316be3d6.png";
+const imgLine3 = "https://www.figma.com/api/mcp/asset/a5cc0986-2ecd-4d22-a7b0-e0e86da848e6.svg";
+
+export default function Frame2147223842() {
+  return (
+    <div className="bg-[#1e3fe0] content-stretch flex flex-col items-start pb-[92px] pt-[100px] px-[100px] relative size-full" data-node-id="22:146">
+      <div className="content-stretch flex flex-col gap-[70px] items-center relative shrink-0 w-[1400px]" data-node-id="22:147">
+        <div className="[word-break:break-word] content-stretch flex flex-col gap-[35px] items-center not-italic relative shrink-0" data-node-id="22:148">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:SemiBold'] leading-[60px] relative shrink-0 text-[60px] text-white tracking-[-1px] whitespace-nowrap" data-node-id="22:149">
+            Why Pay $2,000/Month for a Virtual Assistant?
+          </p>
+          <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] flex flex-col font-['Lato:Medium'] justify-center leading-[0] relative shrink-0 text-[20px] text-[rgba(255,255,255,0.8)] text-center tracking-[-0.2px] w-[1064px]" data-node-id="22:150">
+            <p className="leading-[29px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum sem id elit maximus, sed tempor turpis ornare. Cras consectetur tincidunt elit dignissim feugiat. Nulla quis erat eget ante dictum posuere. Pellentesque felis mauris, auctor in libero sit amet, faucibus aliquet sapien. Lorem ipsum dolor sit amet,</p>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[41px] items-center relative shrink-0 w-full" data-node-id="22:151">
+          <div className="border border-[rgba(0,0,0,0.1)] border-solid h-[433.613px] relative rounded-[20px] shrink-0 w-[660px]" data-node-id="22:152">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[20px] size-full" src={imgRectangle18} />
+          </div>
+          <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0 w-[669px]" data-node-id="22:153">
+            <div className="content-stretch flex flex-col gap-[22px] h-[35px] items-start overflow-clip relative shrink-0 w-full" data-node-id="22:154">
+              <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="22:155">
+                <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="22:156">
+                  <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['Lato:SemiBold'] leading-[40px] not-italic relative shrink-0 text-[30px] text-white whitespace-nowrap" data-node-id="22:157">{`Stop Paying for "Agency Overhead."`}</p>
+                  <div className="relative shrink-0 size-[35px]" data-node-id="22:158" data-name="image 24">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage24} />
+                  </div>
+                </div>
+              </div>
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['Lato:Medium'] leading-[27px] not-italic relative shrink-0 text-[20px] text-[rgba(255,255,255,0.7)] w-full" data-node-id="22:159">
+                We leverage streamlined operations and the Wing Workspace App to pass the savings directly to you. You get enterprise-grade talent at small-business rates.
+              </p>
+            </div>
+            <div className="h-0 relative shrink-0 w-full" data-node-id="22:160">
+              <div className="absolute inset-[-1px_0_0_0]">
+                <img alt="" className="block max-w-none size-full" src={imgLine3} />
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[22px] items-start relative shrink-0 w-full" data-node-id="22:161">
+              <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="22:162">
+                <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="22:163">
+                  <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['Lato:SemiBold'] leading-[40px] not-italic relative shrink-0 text-[30px] text-white whitespace-nowrap" data-node-id="22:164">
+                    Dedicated Talent, Not Random Freelancers.
+                  </p>
+                  <div className="relative shrink-0 size-[35px]" data-node-id="22:165" data-name="image 23">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage23} />
+                  </div>
+                </div>
+              </div>
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['Lato:Medium'] leading-[27px] not-italic relative shrink-0 text-[20px] text-[rgba(255,255,255,0.7)] w-full" data-node-id="22:166">
+                Unlike gig platforms, your $13/hr or $999/mo secures a Dedicated Virtual Assistant who learns your business and works exclusively in your timezone.
+              </p>
+            </div>
+            <div className="h-0 relative shrink-0 w-full" data-node-id="22:167">
+              <div className="absolute inset-[-1px_0_0_0]">
+                <img alt="" className="block max-w-none size-full" src={imgLine3} />
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[22px] h-[35px] items-start overflow-clip relative shrink-0 w-full" data-node-id="22:168">
+              <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="22:169">
+                <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="22:170">
+                  <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['Lato:SemiBold'] leading-[40px] not-italic relative shrink-0 text-[30px] text-white whitespace-nowrap" data-node-id="22:171">
+                    Managed for You.
+                  </p>
+                  <div className="relative shrink-0 size-[35px]" data-node-id="22:172" data-name="image 24">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage24} />
+                  </div>
+                </div>
+              </div>
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['Lato:Medium'] leading-[27px] not-italic relative shrink-0 text-[20px] text-[rgba(255,255,255,0.7)] w-full" data-node-id="22:173">{`Every plan includes a Customer Success Manager and rigorous quality control. You don't have to spend your valuable time micromanaging.`}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

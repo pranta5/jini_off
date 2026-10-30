@@ -1,0 +1,139 @@
+const imgFrame2147223840 = "https://www.figma.com/api/mcp/asset/1db7a195-5db2-4265-b735-dddaf560f9bb.png";
+const imgImage1 = "https://www.figma.com/api/mcp/asset/35ee254c-91f0-4b77-af14-3c92d4ca3682.png";
+const imgImage2 = "https://www.figma.com/api/mcp/asset/5056c179-d407-408b-b864-e757b3613f95.png";
+const imgImage3 = "https://www.figma.com/api/mcp/asset/dccc5bb9-b74a-449e-8063-1f09fcdef636.png";
+const imgImage4 = "https://www.figma.com/api/mcp/asset/deb3ce1a-5142-4630-955f-0094d18c5e40.png";
+const imgImage5 = "https://www.figma.com/api/mcp/asset/cc34b862-3226-44a5-9d1e-7f2971c2c74a.png";
+const imgImage6 = "https://www.figma.com/api/mcp/asset/daecc3bb-385f-4241-863b-8502f9ee7bee.png";
+
+export default function Frame2147223840() {
+  return (
+    <div className="content-stretch flex items-start p-[100px] relative size-full" data-node-id="22:26">
+      <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgFrame2147223840} />
+      <div className="content-stretch flex flex-col gap-[50px] items-center relative shrink-0 w-[1400px]" data-node-id="22:27">
+        <div className="content-stretch flex flex-col gap-[50px] items-center relative shrink-0 w-full" data-node-id="22:28">
+          <div className="[word-break:break-word] content-stretch flex flex-col gap-[35px] items-center not-italic relative shrink-0 text-center" data-node-id="22:29">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] capitalize font-['Playfair_Display:SemiBold'] font-semibold leading-[0] relative shrink-0 text-[#09142d] text-[0px] tracking-[-0.6px] whitespace-nowrap" data-node-id="22:30">
+              <span className="font-['Lato:SemiBold'] leading-[80px] text-[60px]">{`What Can You `}</span>
+              <span className="bg-clip-text font-['Lato:SemiBold'] leading-[90px] text-[60px] text-[transparent]" style={{ backgroundImage: "linear-gradient(90deg, rgb(59, 154, 248) 0%, rgb(132, 65, 240) 100%), linear-gradient(90deg, rgb(9, 20, 45) 0%, rgb(9, 20, 45) 100%)" }}>
+                Outsource Today?
+              </span>
+            </p>
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Medium'] leading-[30px] relative shrink-0 text-[22px] text-[rgba(0,0,0,0.9)] w-[797px]" data-node-id="22:31">
+              Free up your internal team to focus on revenue-generating tasks.
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col gap-[20px] items-start relative shrink-0 w-full" data-node-id="22:32">
+            <div className="content-stretch flex gap-[20px] items-start relative shrink-0 w-full" data-node-id="22:33">
+              <div className="bg-white border border-[rgba(0,0,0,0.1)] border-solid content-stretch flex flex-col items-start pb-[30px] pt-[15px] px-[15px] relative rounded-[20px] self-stretch shrink-0 w-[572px]" data-node-id="22:34">
+                <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0 w-[542px]" data-node-id="22:35">
+                  <div className="border border-[rgba(0,0,0,0.1)] border-solid h-[300px] relative rounded-tl-[20px] rounded-tr-[20px] shrink-0 w-full" data-node-id="22:36" data-name="Image 1">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-tl-[20px] rounded-tr-[20px] size-full" src={imgImage1} />
+                  </div>
+                  <div className="[word-break:break-word] content-stretch flex flex-col gap-[25px] items-start not-italic relative shrink-0 w-full" data-node-id="22:37">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:SemiBold'] leading-[45px] relative shrink-0 text-[30px] text-black tracking-[-0.6px] w-full" data-node-id="22:38">
+                      Administrative VA
+                    </p>
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Medium'] leading-[28px] relative shrink-0 text-[#606060] text-[20px] w-full" data-node-id="22:39">
+                      Keep your back-office running flawlessly. Our administrative VAs expertly handle calendar management, inbox zero strategies, travel logistics, document formatting, and daily scheduling so your business never misses a beat.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white border-2 border-[#4d62fa] border-solid content-stretch drop-shadow-[0px_176px_24.5px_rgba(115,115,115,0),0px_113px_22.5px_rgba(115,115,115,0.01),0px_63px_19px_rgba(115,115,115,0.04),0px_28px_14px_rgba(115,115,115,0.06),0px_7px_7.5px_rgba(115,115,115,0.07)] flex flex-col items-start pb-[30px] pt-[15px] px-[15px] relative rounded-[20px] shrink-0 w-[394px]" data-node-id="22:40">
+                <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0 w-full" data-node-id="22:41">
+                  <div className="border border-[rgba(0,0,0,0.1)] border-solid h-[300px] relative rounded-tl-[20px] rounded-tr-[20px] shrink-0 w-full" data-node-id="22:42" data-name="Image 2">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-tl-[20px] rounded-tr-[20px] size-full" src={imgImage2} />
+                  </div>
+                  <div className="[word-break:break-word] content-stretch flex flex-col gap-[25px] items-start not-italic relative shrink-0 w-full" data-node-id="22:43">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:SemiBold'] leading-[40px] relative shrink-0 text-[30px] text-black tracking-[-0.6px] w-full" data-node-id="22:44">
+                      Customer Service VA
+                    </p>
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Medium'] leading-[28px] relative shrink-0 text-[#606060] text-[20px] w-full" data-node-id="22:45">
+                      Deliver exceptional, round-the-clock support to your buyers. Our customer service experts seamlessly manage Zendesk/Freshdesk tickets, live chats, dispute resolutions, and phone support to maximize client retention.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white border border-[rgba(0,0,0,0.1)] border-solid content-stretch flex flex-col items-start pb-[30px] pt-[15px] px-[15px] relative rounded-[20px] shrink-0 w-[394px]" data-node-id="22:46">
+                <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0 w-full" data-node-id="22:47">
+                  <div className="border border-[rgba(0,0,0,0.1)] border-solid h-[300px] relative rounded-tl-[20px] rounded-tr-[20px] shrink-0 w-full" data-node-id="22:48" data-name="Image 3">
+                    <div aria-hidden className="absolute inset-0 pointer-events-none rounded-tl-[20px] rounded-tr-[20px]">
+                      <div className="absolute bg-[#fefefe] inset-0 rounded-tl-[20px] rounded-tr-[20px]" />
+                      <div className="absolute inset-0 overflow-hidden rounded-tl-[20px] rounded-tr-[20px]">
+                        <img alt="" className="absolute h-[81.21%] left-[-10.5%] max-w-none top-[9.39%] w-[121%]" src={imgImage3} />
+                      </div>
+                    </div>
+                  </div>
+                  <div className="[word-break:break-word] content-stretch flex flex-col gap-[25px] items-start not-italic relative shrink-0 w-full" data-node-id="22:49">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:SemiBold'] leading-[40px] relative shrink-0 text-[30px] text-black tracking-[-0.6px] w-full" data-node-id="22:50">
+                      Executive VA
+                    </p>
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Medium'] leading-[28px] relative shrink-0 text-[#606060] text-[20px] w-full" data-node-id="22:51">{`Strategic, high-level support for busy founders & C-suite executives. Get a proactive professional to gatekeep communications, prepare presentation decks, manage complex projects, and drive your strategic initiatives forward.`}</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[20px] items-start relative shrink-0 w-full" data-node-id="22:52">
+              <div className="bg-white border border-[rgba(0,0,0,0.1)] border-solid content-stretch flex flex-col items-start pb-[30px] pt-[15px] px-[15px] relative rounded-[20px] shrink-0 w-[394px]" data-node-id="22:53">
+                <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0 w-full" data-node-id="22:54">
+                  <div className="border border-[rgba(0,0,0,0.1)] border-solid h-[300px] relative rounded-tl-[20px] rounded-tr-[20px] shrink-0 w-full" data-node-id="22:55" data-name="Image 4">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-tl-[20px] rounded-tr-[20px] size-full" src={imgImage4} />
+                  </div>
+                  <div className="[word-break:break-word] content-stretch flex flex-col gap-[25px] items-start not-italic relative shrink-0 w-full" data-node-id="22:56">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:SemiBold'] leading-[40px] relative shrink-0 text-[30px] text-black tracking-[-0.6px] w-full" data-node-id="22:57">
+                      Data Entry VA
+                    </p>
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Medium'] leading-[28px] relative shrink-0 text-[#606060] text-[20px] w-full" data-node-id="22:58">
+                      Accurate, highly efficient, and secure data management. Let our meticulous assistants take over tedious database updates, spreadsheet formatting, manual web scraping, and digital transcriptions with zero errors.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white border border-[rgba(0,0,0,0.1)] border-solid content-stretch flex flex-col items-start pb-[30px] pt-[15px] px-[15px] relative rounded-[20px] shrink-0 w-[394px]" data-node-id="22:59">
+                <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0 w-full" data-node-id="22:60">
+                  <div className="border border-[rgba(0,0,0,0.1)] border-solid h-[300px] relative rounded-tl-[20px] rounded-tr-[20px] shrink-0 w-full" data-node-id="22:61" data-name="Image 5">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-tl-[20px] rounded-tr-[20px] size-full" src={imgImage5} />
+                  </div>
+                  <div className="[word-break:break-word] content-stretch flex flex-col gap-[25px] items-start not-italic relative shrink-0 w-full" data-node-id="22:62">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:SemiBold'] leading-[40px] relative shrink-0 text-[30px] text-black tracking-[-0.6px] w-full" data-node-id="22:63">{`Finance & Bookkeeping VA`}</p>
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Medium'] leading-[28px] relative shrink-0 text-[#606060] text-[20px] w-full" data-node-id="22:64">
+                      Maintain crystal-clear financial records year-round. Delegate repetitive tasks like invoicing, receipt tracking, payroll data processing, and basic QuickBooks/Xero reconciliation to keep your books perfectly balanced.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white border border-[rgba(0,0,0,0.1)] border-solid content-stretch flex flex-col items-start pb-[30px] pt-[15px] px-[15px] relative rounded-[20px] self-stretch shrink-0 w-[572px]" data-node-id="22:65">
+                <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0 w-[542px]" data-node-id="22:66">
+                  <div className="border border-[rgba(0,0,0,0.1)] border-solid h-[300px] relative rounded-tl-[20px] rounded-tr-[20px] shrink-0 w-full" data-node-id="22:67" data-name="Image 6">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-tl-[20px] rounded-tr-[20px] size-full" src={imgImage6} />
+                  </div>
+                  <div className="[word-break:break-word] content-stretch flex flex-col gap-[25px] items-start not-italic relative shrink-0 w-full" data-node-id="22:68">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:SemiBold'] leading-[45px] relative shrink-0 text-[30px] text-black tracking-[-0.6px] w-full" data-node-id="22:69">
+                      Lead Generation VA
+                    </p>
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['Lato:Medium'] leading-[28px] relative shrink-0 text-[#606060] text-[20px] w-full" data-node-id="22:70">
+                      Keep your sales pipeline overflowing with qualified prospects. We handle deep prospect research, LinkedIn outreach, list building, cold emailing, and precise CRM data entry so your closers can focus on selling.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-center px-[25px] py-[20px] relative rounded-[100px] shrink-0" data-node-id="22:71" style={{ backgroundImage: "linear-gradient(113.39026675864753deg, rgb(22, 124, 255) 5.4872%, rgb(129, 68, 240) 100%)" }}>
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['Inter:Medium'] font-medium leading-[normal] not-italic relative shrink-0 text-[18px] text-white whitespace-nowrap" data-node-id="22:72">{`Let's Build Your Support Team`}</p>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.
