@@ -1,0 +1,22 @@
+const {chromium}=require('C:/Users/prant/AppData/Local/npm-cache/_npx/e41f203b7505f1fb/node_modules/playwright');
+const assert=require('node:assert/strict');
+(async()=>{
+ const browser=await chromium.launch({channel:'msedge',headless:true});const page=await browser.newPage({viewport:{width:1440,height:1000}});
+ await page.goto('file:///C:/jini%20web/office%20jini/chatbot/index.html');
+ const initial=await page.locator('#chat-category').textContent();
+ const before=await page.locator('#partner-logos').evaluate(el=>getComputedStyle(el).transform);
+ await page.waitForTimeout(7300);
+ assert.notEqual(await page.locator('#chat-category').textContent(),initial);
+ assert.notEqual(await page.locator('#partner-logos').evaluate(el=>getComputedStyle(el).transform),before);
+ await page.locator('#chat-pause').click();await page.mouse.move(0,0);
+ const paused=await page.locator('#chat-category').textContent();await page.waitForTimeout(7200);assert.equal(await page.locator('#chat-category').textContent(),paused);
+ await page.locator('.solution-card').first().hover();await page.waitForTimeout(300);assert.notEqual(await page.locator('.solution-card').first().evaluate(el=>getComputedStyle(el).boxShadow),'none');
+ await page.locator('[data-capability="0"]').focus();await page.keyboard.press('ArrowRight');assert.equal(await page.locator('[data-capability="1"]').getAttribute('aria-selected'),'true');
+ await page.setViewportSize({width:390,height:844});await page.locator('[data-consult]').first().click();
+ assert(await page.locator('#modal-name').evaluate(el=>el===document.activeElement));
+ await page.keyboard.press('Shift+Tab');assert(await page.locator('.dialog-close').evaluate(el=>el===document.activeElement));
+ await page.keyboard.press('Shift+Tab');assert(await page.locator('dialog').evaluate(el=>el.contains(document.activeElement)));
+ await page.screenshot({path:'tmp/pdfs/mobile-modal.png'});
+ await page.keyboard.press('Escape');assert(!(await page.locator('dialog').isVisible()));
+ console.log('PASS: timed carousel rotation/pause, moving logo strip, hover shadow, keyboard tabs, mobile dialog focus containment and Escape.');await browser.close();
+})().catch(e=>{console.error(e);process.exit(1)});

@@ -1,0 +1,108 @@
+{
+  "solutions": [
+    {
+      "title": "Conversational AI & Voice Assistants",
+      "body": "Build intuitive chat and voice experiences that let customers interact naturally across websites, mobile apps, kiosks, and connected devices."
+    },
+    {
+      "title": "Multilingual Chatbots & Conversation Design",
+      "body": "Design context-aware conversations that support multiple languages, maintain a consistent tone, and help businesses serve customers across global markets."
+    },
+    {
+      "title": "Chatbot Consulting, Training & Maintenance",
+      "body": "From solution planning and architecture to real-world retraining, feedback analysis, version updates, we keep your chatbot accurate, secure, reliable."
+    },
+    {
+      "title": "Lead Generation & Customer Support Bots",
+      "body": "Engage website visitors, qualify potential customers, route promising leads to sales teams, resolve routine customer queries with human handoff when needed."
+    },
+    {
+      "title": "Transactional Chatbots & System Integration",
+      "body": "Connect chatbots with business systems to automate bookings, payments, renewals, order updates, other repetitive processes with less manual effort."
+    },
+    {
+      "title": "Enterprise Chatbot Architecture & Development",
+      "body": "Develop secure, scalable custom chatbots for HR queries, finance approvals, IT support, and internal workflows, designed around your business requirements."
+    }
+  ],
+  "features": [
+    [
+      {
+        "title": "Natural Language Understanding (NLU)",
+        "body": "Understand user intent, extract key information, and interpret natural language to deliver relevant, accurate responses."
+      },
+      {
+        "title": "Sentiment Analysis",
+        "body": "Recognize emotional tone and user sentiment to adapt responses, improve interactions, and identify conversations that need human assistance."
+      },
+      {
+        "title": "Multi-Step Dialogue & Context Retention",
+        "body": "Maintain conversation context across multiple exchanges, remember relevant details, and help users complete complex tasks without repeating information."
+      },
+      {
+        "title": "Personalized User Journeys",
+        "body": "Tailor responses, recommendations, and conversation flows to user preferences, previous interactions, and specific business needs."
+      },
+      {
+        "title": "Voice & Multilingual Interaction",
+        "body": "Enable natural spoken conversations and multilingual communication across websites, mobile apps, and connected devices."
+      },
+      {
+        "title": "Adaptive Learning & Response Optimization",
+        "body": "Refine chatbot responses using conversation data, user feedback, and performance evaluations to improve relevance and accuracy over time."
+      }
+    ],
+    [
+      {
+        "title": "CRM & API Integration",
+        "body": "Connect chatbots with CRM platforms, external APIs, and business applications to synchronize customer information and streamline workflows."
+      },
+      {
+        "title": "Payment & Transaction Automation",
+        "body": "Automate bookings, payment processing, subscription renewals, and order updates through connected chatbot experiences."
+      },
+      {
+        "title": "Real-Time Analytics & Reporting",
+        "body": "Monitor conversations, user engagement, and chatbot performance to identify trends and make informed business decisions."
+      },
+      {
+        "title": "Knowledge Base & Data Retrieval",
+        "body": "Connect chatbots to internal documents, FAQs, databases, and knowledge repositories to provide relevant, information-based answers."
+      },
+      {
+        "title": "Custom Workflow Automation",
+        "body": "Build tailored workflows that trigger actions, route requests, update records, and coordinate tasks across business processes."
+      },
+      {
+        "title": "Omnichannel Integration",
+        "body": "Deploy consistent chatbot experiences across websites, mobile applications, and messaging platforms, helping users switch channels with less friction."
+      }
+    ],
+    [
+      {
+        "title": "Data Protection & Privacy",
+        "body": "Safeguard sensitive information with appropriate encryption, access controls, and data-handling practices designed to support your security requirements."
+      },
+      {
+        "title": "Low-Latency Response Performance",
+        "body": "Optimize chatbot response times to deliver faster interactions, reduce user waiting, and maintain a smooth conversational experience."
+      },
+      {
+        "title": "Scalable Infrastructure",
+        "body": "Design chatbot infrastructure to handle growing user demand, increasing conversation volumes, and evolving business requirements."
+      },
+      {
+        "title": "Continuous Monitoring & Optimization",
+        "body": "Track chatbot performance, identify response issues, and use testing and feedback to improve reliability and answer quality over time."
+      },
+      {
+        "title": "Authentication & Access Control",
+        "body": "Help protect sensitive workflows with identity verification, role-based permissions, and controlled access to business information."
+      },
+      {
+        "title": "Accessibility & Inclusive Experiences",
+        "body": "Design chatbot interfaces that support diverse user needs, including keyboard navigation, assistive technologies, and accessible interaction patterns."
+      }
+    ]
+  ]
+}

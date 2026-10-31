@@ -1,0 +1,2210 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "width": 1920,
+      "scrollWidth": 1920,
+      "broken": [],
+      "images": [
+        {
+          "src": "assets/logo.webp",
+          "w": 188,
+          "h": 39.9375,
+          "nw": 400,
+          "nh": 85
+        },
+        {
+          "src": "assets/assistant.webp",
+          "w": 25,
+          "h": 25,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/partner-0.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-1.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 144
+        },
+        {
+          "src": "assets/partner-2.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-3.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 128,
+          "nh": 128
+        },
+        {
+          "src": "assets/partner-4.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 135
+        },
+        {
+          "src": "assets/partner-5.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-6.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-7.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 135
+        },
+        {
+          "src": "assets/partner-8.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 168
+        },
+        {
+          "src": "assets/partner-9.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/solution-0.webp",
+          "w": 517.1875,
+          "h": 258,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-1.webp",
+          "w": 375.40625,
+          "h": 258,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-2.webp",
+          "w": 375.40625,
+          "h": 258,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-3.webp",
+          "w": 375.390625,
+          "h": 258,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-4.webp",
+          "w": 375.40625,
+          "h": 258,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-5.webp",
+          "w": 517.203125,
+          "h": 258,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/industry-1.webp",
+          "w": 688.046875,
+          "h": 699.015625,
+          "nw": 690,
+          "nh": 701
+        },
+        {
+          "src": "assets/compliance-0.webp",
+          "w": 130,
+          "h": 100,
+          "nw": 280,
+          "nh": 205
+        },
+        {
+          "src": "assets/compliance-1.webp",
+          "w": 130,
+          "h": 100,
+          "nw": 136,
+          "nh": 129
+        },
+        {
+          "src": "assets/compliance-2.webp",
+          "w": 130,
+          "h": 100,
+          "nw": 218,
+          "nh": 129
+        },
+        {
+          "src": "assets/compliance-3.webp",
+          "w": 130,
+          "h": 100,
+          "nw": 260,
+          "nh": 280
+        },
+        {
+          "src": "assets/technology-0.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 141
+        },
+        {
+          "src": "assets/technology-1.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 188
+        },
+        {
+          "src": "assets/technology-2.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 167
+        },
+        {
+          "src": "assets/technology-3.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 87
+        },
+        {
+          "src": "assets/technology-4.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 86
+        },
+        {
+          "src": "assets/technology-5.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 85
+        },
+        {
+          "src": "assets/technology-6.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 98
+        },
+        {
+          "src": "assets/technology-7.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 87
+        },
+        {
+          "src": "assets/technology-8.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 108
+        },
+        {
+          "src": "assets/technology-9.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 109
+        },
+        {
+          "src": "assets/technology-10.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 129
+        },
+        {
+          "src": "assets/technology-11.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 300
+        },
+        {
+          "src": "assets/feature-0.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-1.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-2.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-3.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-4.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-5.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/contact-0.webp",
+          "w": 30,
+          "h": 30,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/contact-1.webp",
+          "w": 30,
+          "h": 30,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/logo.webp",
+          "w": 188,
+          "h": 39.9375,
+          "nw": 400,
+          "nh": 85
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "broken": [],
+      "images": [
+        {
+          "src": "assets/logo.webp",
+          "w": 188,
+          "h": 39.9375,
+          "nw": 400,
+          "nh": 85
+        },
+        {
+          "src": "assets/assistant.webp",
+          "w": 25,
+          "h": 25,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/partner-0.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-1.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 144
+        },
+        {
+          "src": "assets/partner-2.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-3.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 128,
+          "nh": 128
+        },
+        {
+          "src": "assets/partner-4.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 135
+        },
+        {
+          "src": "assets/partner-5.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-6.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-7.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 135
+        },
+        {
+          "src": "assets/partner-8.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 168
+        },
+        {
+          "src": "assets/partner-9.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/solution-0.webp",
+          "w": 462,
+          "h": 258,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-1.webp",
+          "w": 334,
+          "h": 258,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-2.webp",
+          "w": 334,
+          "h": 258,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-3.webp",
+          "w": 334,
+          "h": 258,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-4.webp",
+          "w": 334,
+          "h": 258,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-5.webp",
+          "w": 462,
+          "h": 258,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/industry-1.webp",
+          "w": 635.265625,
+          "h": 645.390625,
+          "nw": 690,
+          "nh": 701
+        },
+        {
+          "src": "assets/compliance-0.webp",
+          "w": 130,
+          "h": 100,
+          "nw": 280,
+          "nh": 205
+        },
+        {
+          "src": "assets/compliance-1.webp",
+          "w": 130,
+          "h": 100,
+          "nw": 136,
+          "nh": 129
+        },
+        {
+          "src": "assets/compliance-2.webp",
+          "w": 130,
+          "h": 100,
+          "nw": 218,
+          "nh": 129
+        },
+        {
+          "src": "assets/compliance-3.webp",
+          "w": 130,
+          "h": 100,
+          "nw": 260,
+          "nh": 280
+        },
+        {
+          "src": "assets/technology-0.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 141
+        },
+        {
+          "src": "assets/technology-1.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 188
+        },
+        {
+          "src": "assets/technology-2.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 167
+        },
+        {
+          "src": "assets/technology-3.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 87
+        },
+        {
+          "src": "assets/technology-4.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 86
+        },
+        {
+          "src": "assets/technology-5.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 85
+        },
+        {
+          "src": "assets/technology-6.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 98
+        },
+        {
+          "src": "assets/technology-7.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 87
+        },
+        {
+          "src": "assets/technology-8.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 108
+        },
+        {
+          "src": "assets/technology-9.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 109
+        },
+        {
+          "src": "assets/technology-10.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 129
+        },
+        {
+          "src": "assets/technology-11.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 300
+        },
+        {
+          "src": "assets/feature-0.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-1.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-2.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-3.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-4.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-5.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/contact-0.webp",
+          "w": 30,
+          "h": 30,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/contact-1.webp",
+          "w": 30,
+          "h": 30,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/logo.webp",
+          "w": 188,
+          "h": 39.9375,
+          "nw": 400,
+          "nh": 85
+        }
+      ]
+    },
+    {
+      "width": 1280,
+      "scrollWidth": 1280,
+      "broken": [],
+      "images": [
+        {
+          "src": "assets/logo.webp",
+          "w": 188,
+          "h": 39.9375,
+          "nw": 400,
+          "nh": 85
+        },
+        {
+          "src": "assets/assistant.webp",
+          "w": 25,
+          "h": 25,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/partner-0.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-1.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 144
+        },
+        {
+          "src": "assets/partner-2.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-3.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 128,
+          "nh": 128
+        },
+        {
+          "src": "assets/partner-4.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 135
+        },
+        {
+          "src": "assets/partner-5.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-6.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-7.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 135
+        },
+        {
+          "src": "assets/partner-8.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 168
+        },
+        {
+          "src": "assets/partner-9.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/solution-0.webp",
+          "w": 398,
+          "h": 258,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-1.webp",
+          "w": 286,
+          "h": 258,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-2.webp",
+          "w": 286,
+          "h": 258,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-3.webp",
+          "w": 286,
+          "h": 258,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-4.webp",
+          "w": 286,
+          "h": 258,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-5.webp",
+          "w": 398,
+          "h": 258,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/industry-1.webp",
+          "w": 554.09375,
+          "h": 562.921875,
+          "nw": 690,
+          "nh": 701
+        },
+        {
+          "src": "assets/compliance-0.webp",
+          "w": 130,
+          "h": 100,
+          "nw": 280,
+          "nh": 205
+        },
+        {
+          "src": "assets/compliance-1.webp",
+          "w": 130,
+          "h": 100,
+          "nw": 136,
+          "nh": 129
+        },
+        {
+          "src": "assets/compliance-2.webp",
+          "w": 130,
+          "h": 100,
+          "nw": 218,
+          "nh": 129
+        },
+        {
+          "src": "assets/compliance-3.webp",
+          "w": 130,
+          "h": 100,
+          "nw": 260,
+          "nh": 280
+        },
+        {
+          "src": "assets/technology-0.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 141
+        },
+        {
+          "src": "assets/technology-1.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 188
+        },
+        {
+          "src": "assets/technology-2.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 167
+        },
+        {
+          "src": "assets/technology-3.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 87
+        },
+        {
+          "src": "assets/technology-4.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 86
+        },
+        {
+          "src": "assets/technology-5.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 85
+        },
+        {
+          "src": "assets/technology-6.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 98
+        },
+        {
+          "src": "assets/technology-7.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 87
+        },
+        {
+          "src": "assets/technology-8.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 108
+        },
+        {
+          "src": "assets/technology-9.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 109
+        },
+        {
+          "src": "assets/technology-10.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 129
+        },
+        {
+          "src": "assets/technology-11.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 300
+        },
+        {
+          "src": "assets/feature-0.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-1.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-2.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-3.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-4.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-5.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/contact-0.webp",
+          "w": 30,
+          "h": 30,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/contact-1.webp",
+          "w": 30,
+          "h": 30,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/logo.webp",
+          "w": 188,
+          "h": 39.9375,
+          "nw": 400,
+          "nh": 85
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "scrollWidth": 1024,
+      "broken": [],
+      "images": [
+        {
+          "src": "assets/logo.webp",
+          "w": 188,
+          "h": 39.9375,
+          "nw": 400,
+          "nh": 85
+        },
+        {
+          "src": "assets/assistant.webp",
+          "w": 25,
+          "h": 25,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/partner-0.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-1.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 144
+        },
+        {
+          "src": "assets/partner-2.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-3.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 128,
+          "nh": 128
+        },
+        {
+          "src": "assets/partner-4.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 135
+        },
+        {
+          "src": "assets/partner-5.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-6.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-7.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 135
+        },
+        {
+          "src": "assets/partner-8.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 168
+        },
+        {
+          "src": "assets/partner-9.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/solution-0.webp",
+          "w": 321.1875,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-1.webp",
+          "w": 228.40625,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-2.webp",
+          "w": 228.40625,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-3.webp",
+          "w": 228.390625,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-4.webp",
+          "w": 228.40625,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-5.webp",
+          "w": 321.203125,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/industry-1.webp",
+          "w": 456.671875,
+          "h": 463.9375,
+          "nw": 690,
+          "nh": 701
+        },
+        {
+          "src": "assets/compliance-0.webp",
+          "w": 130,
+          "h": 100,
+          "nw": 280,
+          "nh": 205
+        },
+        {
+          "src": "assets/compliance-1.webp",
+          "w": 130,
+          "h": 100,
+          "nw": 136,
+          "nh": 129
+        },
+        {
+          "src": "assets/compliance-2.webp",
+          "w": 130,
+          "h": 100,
+          "nw": 218,
+          "nh": 129
+        },
+        {
+          "src": "assets/compliance-3.webp",
+          "w": 130,
+          "h": 100,
+          "nw": 260,
+          "nh": 280
+        },
+        {
+          "src": "assets/technology-0.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 141
+        },
+        {
+          "src": "assets/technology-1.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 188
+        },
+        {
+          "src": "assets/technology-2.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 167
+        },
+        {
+          "src": "assets/technology-3.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 87
+        },
+        {
+          "src": "assets/technology-4.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 86
+        },
+        {
+          "src": "assets/technology-5.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 85
+        },
+        {
+          "src": "assets/technology-6.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 98
+        },
+        {
+          "src": "assets/technology-7.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 87
+        },
+        {
+          "src": "assets/technology-8.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 108
+        },
+        {
+          "src": "assets/technology-9.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 109
+        },
+        {
+          "src": "assets/technology-10.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 129
+        },
+        {
+          "src": "assets/technology-11.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 300
+        },
+        {
+          "src": "assets/feature-0.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-1.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-2.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-3.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-4.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-5.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/contact-0.webp",
+          "w": 30,
+          "h": 30,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/contact-1.webp",
+          "w": 30,
+          "h": 30,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/logo.webp",
+          "w": 188,
+          "h": 39.9375,
+          "nw": 400,
+          "nh": 85
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "broken": [],
+      "images": [
+        {
+          "src": "assets/logo.webp",
+          "w": 188,
+          "h": 39.9375,
+          "nw": 400,
+          "nh": 85
+        },
+        {
+          "src": "assets/assistant.webp",
+          "w": 25,
+          "h": 25,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/partner-0.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-1.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 144
+        },
+        {
+          "src": "assets/partner-2.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-3.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 128,
+          "nh": 128
+        },
+        {
+          "src": "assets/partner-4.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 135
+        },
+        {
+          "src": "assets/partner-5.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-6.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-7.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 135
+        },
+        {
+          "src": "assets/partner-8.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 168
+        },
+        {
+          "src": "assets/partner-9.webp",
+          "w": 70,
+          "h": 70,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/solution-0.webp",
+          "w": 308,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-1.webp",
+          "w": 308,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-2.webp",
+          "w": 308,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-3.webp",
+          "w": 308,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-4.webp",
+          "w": 308,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-5.webp",
+          "w": 308,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/industry-1.webp",
+          "w": 351.140625,
+          "h": 356.734375,
+          "nw": 690,
+          "nh": 701
+        },
+        {
+          "src": "assets/compliance-0.webp",
+          "w": 100,
+          "h": 85,
+          "nw": 280,
+          "nh": 205
+        },
+        {
+          "src": "assets/compliance-1.webp",
+          "w": 100,
+          "h": 85,
+          "nw": 136,
+          "nh": 129
+        },
+        {
+          "src": "assets/compliance-2.webp",
+          "w": 100,
+          "h": 85,
+          "nw": 218,
+          "nh": 129
+        },
+        {
+          "src": "assets/compliance-3.webp",
+          "w": 100,
+          "h": 85,
+          "nw": 260,
+          "nh": 280
+        },
+        {
+          "src": "assets/technology-0.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 141
+        },
+        {
+          "src": "assets/technology-1.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 188
+        },
+        {
+          "src": "assets/technology-2.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 167
+        },
+        {
+          "src": "assets/technology-3.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 87
+        },
+        {
+          "src": "assets/technology-4.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 86
+        },
+        {
+          "src": "assets/technology-5.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 85
+        },
+        {
+          "src": "assets/technology-6.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 98
+        },
+        {
+          "src": "assets/technology-7.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 87
+        },
+        {
+          "src": "assets/technology-8.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 108
+        },
+        {
+          "src": "assets/technology-9.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 109
+        },
+        {
+          "src": "assets/technology-10.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 129
+        },
+        {
+          "src": "assets/technology-11.webp",
+          "w": 130,
+          "h": 55,
+          "nw": 300,
+          "nh": 300
+        },
+        {
+          "src": "assets/feature-0.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-1.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-2.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-3.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-4.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-5.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/contact-0.webp",
+          "w": 30,
+          "h": 30,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/contact-1.webp",
+          "w": 30,
+          "h": 30,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/logo.webp",
+          "w": 188,
+          "h": 39.9375,
+          "nw": 400,
+          "nh": 85
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "broken": [],
+      "images": [
+        {
+          "src": "assets/logo.webp",
+          "w": 140,
+          "h": 29.75,
+          "nw": 400,
+          "nh": 85
+        },
+        {
+          "src": "assets/assistant.webp",
+          "w": 20,
+          "h": 20,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/partner-0.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-1.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 240,
+          "nh": 144
+        },
+        {
+          "src": "assets/partner-2.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-3.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 128,
+          "nh": 128
+        },
+        {
+          "src": "assets/partner-4.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 240,
+          "nh": 135
+        },
+        {
+          "src": "assets/partner-5.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-6.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-7.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 240,
+          "nh": 135
+        },
+        {
+          "src": "assets/partner-8.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 240,
+          "nh": 168
+        },
+        {
+          "src": "assets/partner-9.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/solution-0.webp",
+          "w": 308,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-1.webp",
+          "w": 308,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-2.webp",
+          "w": 308,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-3.webp",
+          "w": 308,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-4.webp",
+          "w": 308,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-5.webp",
+          "w": 308,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/industry-1.webp",
+          "w": 352,
+          "h": 357.609375,
+          "nw": 690,
+          "nh": 701
+        },
+        {
+          "src": "assets/compliance-0.webp",
+          "w": 64,
+          "h": 65,
+          "nw": 280,
+          "nh": 205
+        },
+        {
+          "src": "assets/compliance-1.webp",
+          "w": 64,
+          "h": 65,
+          "nw": 136,
+          "nh": 129
+        },
+        {
+          "src": "assets/compliance-2.webp",
+          "w": 64,
+          "h": 65,
+          "nw": 218,
+          "nh": 129
+        },
+        {
+          "src": "assets/compliance-3.webp",
+          "w": 64,
+          "h": 65,
+          "nw": 260,
+          "nh": 280
+        },
+        {
+          "src": "assets/technology-0.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 141
+        },
+        {
+          "src": "assets/technology-1.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 188
+        },
+        {
+          "src": "assets/technology-2.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 167
+        },
+        {
+          "src": "assets/technology-3.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 87
+        },
+        {
+          "src": "assets/technology-4.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 86
+        },
+        {
+          "src": "assets/technology-5.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 85
+        },
+        {
+          "src": "assets/technology-6.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 98
+        },
+        {
+          "src": "assets/technology-7.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 87
+        },
+        {
+          "src": "assets/technology-8.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 108
+        },
+        {
+          "src": "assets/technology-9.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 109
+        },
+        {
+          "src": "assets/technology-10.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 129
+        },
+        {
+          "src": "assets/technology-11.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 300
+        },
+        {
+          "src": "assets/feature-0.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-1.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-2.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-3.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-4.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-5.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/contact-0.webp",
+          "w": 30,
+          "h": 30,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/contact-1.webp",
+          "w": 30,
+          "h": 30,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/logo.webp",
+          "w": 140,
+          "h": 29.75,
+          "nw": 400,
+          "nh": 85
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "broken": [],
+      "images": [
+        {
+          "src": "assets/logo.webp",
+          "w": 132.78125,
+          "h": 28.203125,
+          "nw": 400,
+          "nh": 85
+        },
+        {
+          "src": "assets/assistant.webp",
+          "w": 20,
+          "h": 20,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/partner-0.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-1.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 240,
+          "nh": 144
+        },
+        {
+          "src": "assets/partner-2.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-3.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 128,
+          "nh": 128
+        },
+        {
+          "src": "assets/partner-4.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 240,
+          "nh": 135
+        },
+        {
+          "src": "assets/partner-5.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-6.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/partner-7.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 240,
+          "nh": 135
+        },
+        {
+          "src": "assets/partner-8.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 240,
+          "nh": 168
+        },
+        {
+          "src": "assets/partner-9.webp",
+          "w": 52,
+          "h": 52,
+          "nw": 240,
+          "nh": 240
+        },
+        {
+          "src": "assets/solution-0.webp",
+          "w": 238,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-1.webp",
+          "w": 238,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-2.webp",
+          "w": 238,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-3.webp",
+          "w": 238,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-4.webp",
+          "w": 238,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/solution-5.webp",
+          "w": 238,
+          "h": 218,
+          "nw": 900,
+          "nh": 600
+        },
+        {
+          "src": "assets/industry-1.webp",
+          "w": 282,
+          "h": 286.484375,
+          "nw": 690,
+          "nh": 701
+        },
+        {
+          "src": "assets/compliance-0.webp",
+          "w": 64,
+          "h": 65,
+          "nw": 280,
+          "nh": 205
+        },
+        {
+          "src": "assets/compliance-1.webp",
+          "w": 64,
+          "h": 65,
+          "nw": 136,
+          "nh": 129
+        },
+        {
+          "src": "assets/compliance-2.webp",
+          "w": 64,
+          "h": 65,
+          "nw": 218,
+          "nh": 129
+        },
+        {
+          "src": "assets/compliance-3.webp",
+          "w": 64,
+          "h": 65,
+          "nw": 260,
+          "nh": 280
+        },
+        {
+          "src": "assets/technology-0.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 141
+        },
+        {
+          "src": "assets/technology-1.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 188
+        },
+        {
+          "src": "assets/technology-2.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 167
+        },
+        {
+          "src": "assets/technology-3.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 87
+        },
+        {
+          "src": "assets/technology-4.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 86
+        },
+        {
+          "src": "assets/technology-5.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 85
+        },
+        {
+          "src": "assets/technology-6.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 98
+        },
+        {
+          "src": "assets/technology-7.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 87
+        },
+        {
+          "src": "assets/technology-8.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 108
+        },
+        {
+          "src": "assets/technology-9.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 109
+        },
+        {
+          "src": "assets/technology-10.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 129
+        },
+        {
+          "src": "assets/technology-11.webp",
+          "w": 100,
+          "h": 45,
+          "nw": 300,
+          "nh": 300
+        },
+        {
+          "src": "assets/feature-0.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-1.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-2.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-3.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-4.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/feature-5.webp",
+          "w": 34,
+          "h": 34,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/contact-0.webp",
+          "w": 30,
+          "h": 30,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/contact-1.webp",
+          "w": 30,
+          "h": 30,
+          "nw": 80,
+          "nh": 80
+        },
+        {
+          "src": "assets/logo.webp",
+          "w": 140,
+          "h": 29.75,
+          "nw": 400,
+          "nh": 85
+        }
+      ]
+    }
+  ]
+}
